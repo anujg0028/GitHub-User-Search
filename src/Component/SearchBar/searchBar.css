@@ -1,0 +1,21 @@
+.searchBarContainer {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+#searchInputBar {
+    width: 200px;
+    height: 30px;
+}
+
+#outlined-basic {
+    background-color: white;
+    height: 5px;
+}
+
+#searchBtn {
+    height: 30px;
+    text-align: center;
+}

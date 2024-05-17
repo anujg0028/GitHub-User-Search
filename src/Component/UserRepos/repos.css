@@ -1,0 +1,8 @@
+.repoContainer {
+    width: 85%;
+    height: 100%;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-left: 10px;
+}

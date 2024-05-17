@@ -1,0 +1,29 @@
+.profileConainer {
+    width: 280px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#userPic {
+    width: 270px;
+    height: 270px;
+    border-radius: 50%;
+}
+
+.profileConainer>h2 {
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.followers {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#followesLogo {
+    width: 20px;
+}
